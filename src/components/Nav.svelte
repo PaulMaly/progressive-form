@@ -52,6 +52,6 @@
 	<ul>
 		<li><a class:selected={segment === undefined} href='.'>Posts</a></li>
 		<li><a class:selected={segment === 'posts'} href='posts'>Create Post</a></li>
-		<li><a target="_blank" href='http://'>Source code</a></li>
+		<li><a target="_blank" href='https://github.com/PaulMaly/progressive-form'>Source code</a></li>
 	</ul>
 </nav>
